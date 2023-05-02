@@ -1,6 +1,8 @@
 # MDC_FDA
 Full Disk Access with MDC
 
+Forced Released Project by. Nathan (aka I cant release important stuff)
+
 FileTroller by. Nathan
 
 DirtyJit by. Haxi0
