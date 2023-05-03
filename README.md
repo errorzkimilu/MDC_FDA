@@ -7,7 +7,8 @@ FileTroller by. Nathan
 
 DirtyJit by. Haxi0
 
-1. Download the git
+0. Download the git
+1. Open Cert.pem on your device
 2. Open FileTroller in Xcode
 3. Install the app from Xcode to your device
 4. Find out what the UDID is from FileTroller of your device
